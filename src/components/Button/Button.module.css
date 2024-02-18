@@ -1,0 +1,20 @@
+.button {
+    min-width: 100px;
+
+    padding: 10px 20px;
+
+    border: none;
+    border-radius: 6px;
+    background-color: #0d9fa7;
+
+    font-size: 18px;
+    color: #fff;
+
+    cursor: pointer;
+
+    transition: 0.3s ease;
+}
+
+.button:active {
+    transform: scale(0.95);
+}
